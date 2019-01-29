@@ -22,8 +22,12 @@
           <option name="url" value="https://gitee.com/yptake/huanyou.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ditclear/PaoNet.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\androidWorkSpace" />
+    <option name="cloneParentDir" value="F:\androidDemoSpace" />
   </component>
 </application>
