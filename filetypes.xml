@@ -4,6 +4,7 @@
       <mapping ext="webp" type="Image" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="megviifacepp_0_5_2_model" type="PLAIN_TEXT" />
+      <mapping ext="jet" type="PLAIN_TEXT" />
       <mapping ext="slm" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
