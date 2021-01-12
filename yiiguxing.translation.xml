@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="literal" />
+      <item value="This value only takes effect when calling" />
+      <item value="If you override this, you should make sure you test on larger screens and in different orientations." />
+      <item value="Be careful with this. The specs say to use 280dp on a phone, and this value increases for landscape, tablets. etc." />
       <item value="You can consider adding a type converter for it" />
       <item value="Cannot figure out how to save this field into database" />
       <item value="precision" />
@@ -16,12 +20,15 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="20" />
       </map>
     </option>
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1610172814185" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
