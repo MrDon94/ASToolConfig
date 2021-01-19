@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Places the [Collection] of items on the [ITransactionQueue]. Use the [processFunction] to perform an action on each individual [Model]. This happens on a non-UI thread." />
+      <item value="Enables a collection of T objects to easily operate on them within a synchronous database transaction." />
       <item value="Don't set adjustResize" />
       <item value="COMPEL OFFLINE" />
       <item value="Cipher" />
@@ -29,8 +31,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="CHINESE" value="32" />
+        <entry key="ENGLISH" value="33" />
       </map>
     </option>
   </component>
