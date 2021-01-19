@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Network On Main Thread Exception" />
       <item value="Ins" />
       <item value="PM" />
       <item value="Places the [Collection] of items on the [ITransactionQueue]. Use the [processFunction] to perform an action on each individual [Model]. This happens on a non-UI thread." />
@@ -34,7 +35,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="ENGLISH" value="35" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
