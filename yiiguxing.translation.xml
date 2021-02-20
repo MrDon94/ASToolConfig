@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Approval" />
+      <item value="on a null object reference" />
       <item value="UNSPECIFIED" />
       <item value="PENDING" />
       <item value="definition" />
@@ -39,8 +41,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
