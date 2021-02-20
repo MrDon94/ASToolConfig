@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ON DUTY DRILLER" />
       <item value="Approval" />
       <item value="on a null object reference" />
       <item value="UNSPECIFIED" />
@@ -41,8 +42,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="44" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
