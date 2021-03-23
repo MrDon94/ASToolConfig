@@ -13,6 +13,7 @@
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
   <action id="UpdateRunningApplication" />
+  <action id="Vcs.QuickListPopupAction" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
