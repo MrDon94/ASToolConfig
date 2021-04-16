@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="instrument" />
+      <item value="Perhaps" />
       <item value="headline" />
       <item value="cost time" />
       <item value="exam standards" />
@@ -49,13 +51,11 @@
       <item value="Deny" />
       <item value="Grant" />
       <item value="corrupt" />
-      <item value="init Data" />
-      <item value="incompatible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="60" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
