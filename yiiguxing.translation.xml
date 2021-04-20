@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="consumer" />
       <item value="pin" />
       <item value="ripple" />
-      <item value="consumer" />
       <item value="Duplicate" />
       <item value="instrument" />
       <item value="Perhaps" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="ENGLISH" value="64" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
