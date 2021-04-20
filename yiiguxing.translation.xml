@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pin" />
+      <item value="ripple" />
       <item value="consumer" />
       <item value="Duplicate" />
       <item value="instrument" />
@@ -49,13 +51,11 @@
       <item value="You can consider adding a type converter for it" />
       <item value="Cannot figure out how to save this field into database" />
       <item value="precision" />
-      <item value="Rationale" />
-      <item value="Deny" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="63" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
