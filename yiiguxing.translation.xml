@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="consumer" />
       <item value="Duplicate" />
       <item value="instrument" />
       <item value="Perhaps" />
@@ -50,12 +51,11 @@
       <item value="precision" />
       <item value="Rationale" />
       <item value="Deny" />
-      <item value="Grant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="62" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
