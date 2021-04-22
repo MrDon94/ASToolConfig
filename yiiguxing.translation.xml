@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="wrong" />
       <item value="gen List" />
       <item value="period" />
       <item value="consumer" />
@@ -50,12 +51,11 @@
       <item value="This value only takes effect when calling" />
       <item value="If you override this, you should make sure you test on larger screens and in different orientations." />
       <item value="Be careful with this. The specs say to use 280dp on a phone, and this value increases for landscape, tablets. etc." />
-      <item value="You can consider adding a type converter for it" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="67" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
