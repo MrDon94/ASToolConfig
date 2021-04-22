@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="gen List" />
       <item value="period" />
       <item value="consumer" />
       <item value="pin" />
@@ -50,12 +51,11 @@
       <item value="If you override this, you should make sure you test on larger screens and in different orientations." />
       <item value="Be careful with this. The specs say to use 280dp on a phone, and this value increases for landscape, tablets. etc." />
       <item value="You can consider adding a type converter for it" />
-      <item value="Cannot figure out how to save this field into database" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="65" />
+        <entry key="CHINESE" value="65" />
+        <entry key="ENGLISH" value="66" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
