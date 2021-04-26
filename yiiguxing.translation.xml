@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Rationale" />
+      <item value="DENIED" />
+      <item value="Deny" />
+      <item value="Grant" />
       <item value="wrong" />
       <item value="gen List" />
       <item value="period" />
@@ -47,15 +51,11 @@
       <item value="literal" />
       <item value="When true, 24dp horizontal padding is applied to your custom view." />
       <item value="When true, the dialog will wrap the content width." />
-      <item value="When set to true, vertical padding is not added around your content." />
-      <item value="This value only takes effect when calling" />
-      <item value="If you override this, you should make sure you test on larger screens and in different orientations." />
-      <item value="Be careful with this. The specs say to use 280dp on a phone, and this value increases for landscape, tablets. etc." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="72" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
