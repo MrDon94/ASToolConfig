@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="definition" />
       <item value="transer" />
       <item value="guide" />
       <item value="Rationale" />
@@ -35,7 +36,6 @@
       <item value="on a null object reference" />
       <item value="UNSPECIFIED" />
       <item value="PENDING" />
-      <item value="definition" />
       <item value="repository" />
       <item value="Not yet implemented" />
       <item value="Backlog" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="ENGLISH" value="74" />
         <entry key="GERMAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
