@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sweep" />
+      <item value="concurrent" />
       <item value="Async" />
       <item value="grant" />
       <item value="SECONDS" />
@@ -49,13 +51,11 @@
       <item value="PM" />
       <item value="Places the [Collection] of items on the [ITransactionQueue]. Use the [processFunction] to perform an action on each individual [Model]. This happens on a non-UI thread." />
       <item value="Enables a collection of T objects to easily operate on them within a synchronous database transaction." />
-      <item value="Don't set adjustResize" />
-      <item value="COMPEL OFFLINE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="78" />
-        <entry key="ENGLISH" value="79" />
+        <entry key="CHINESE" value="80" />
+        <entry key="ENGLISH" value="81" />
         <entry key="GERMAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
