@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Async" />
+      <item value="grant" />
+      <item value="SECONDS" />
       <item value="consumption records" />
       <item value="CONSTRUCTION UNDER" />
       <item value="definition" />
@@ -48,14 +51,11 @@
       <item value="Enables a collection of T objects to easily operate on them within a synchronous database transaction." />
       <item value="Don't set adjustResize" />
       <item value="COMPEL OFFLINE" />
-      <item value="Cipher" />
-      <item value="async" />
-      <item value="encrypt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="79" />
         <entry key="GERMAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
