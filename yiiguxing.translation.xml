@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This class defines the animations that take place on items as changes are made to the adapter." />
       <item value="Repository" />
       <item value="Survey" />
       <item value="sweep" />
@@ -50,12 +51,11 @@
       <item value="Backlog" />
       <item value="Network On Main Thread Exception" />
       <item value="Ins" />
-      <item value="PM" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="GERMAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
