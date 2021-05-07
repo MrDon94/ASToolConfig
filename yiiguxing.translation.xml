@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="This class defines the animations that take place on items as changes are made to the adapter." />
       <item value="Repository" />
+      <item value="Main Repository" />
+      <item value="This class defines the animations that take place on items as changes are made to the adapter." />
       <item value="Survey" />
       <item value="sweep" />
       <item value="concurrent" />
@@ -50,12 +51,11 @@
       <item value="Not yet implemented" />
       <item value="Backlog" />
       <item value="Network On Main Thread Exception" />
-      <item value="Ins" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
-        <entry key="ENGLISH" value="84" />
+        <entry key="CHINESE" value="85" />
+        <entry key="ENGLISH" value="86" />
         <entry key="GERMAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
