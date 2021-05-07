@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ascent" />
       <item value="Paint flag that enables antialiasing when drawing." />
       <item value="Repository" />
       <item value="Main Repository" />
@@ -50,12 +51,11 @@
       <item value="PENDING" />
       <item value="repository" />
       <item value="Not yet implemented" />
-      <item value="Backlog" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="CHINESE" value="87" />
+        <entry key="ENGLISH" value="88" />
         <entry key="GERMAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
