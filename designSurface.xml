@@ -2,7 +2,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/gitDemoSpace/CoroutinesWanAndroid/app/src/main/res/layout/dialog_project_category.xml" value="0.1947463768115942" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/drawable/date_wheel_bg.xml" value="0.36770833333333336" />
+        <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/drawable/edit_cursor.xml" value="0.36770833333333336" />
+        <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/drawable/ic_star_flag.xml" value="0.36770833333333336" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/drawable/timepicker_divider_line.xml" value="0.36770833333333336" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/activity_login.xml" value="0.20833333333333334" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/activity_survey.xml" value="0.20833333333333334" />
@@ -13,6 +16,9 @@
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/timepicker_layout.xml" value="0.4253731343283582" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/tv_item.xml" value="0.35260416666666666" />
         <entry key="..\:/gitDemoSpace/Fracturing/common/src/main/res/layout/activity_toolbar.xml" value="0.20833333333333334" />
+        <entry key="..\:/gitDemoSpace/SuperTextView/app/src/main/res/drawable/edit_cursor.xml" value="0.36205128205128206" />
+        <entry key="..\:/gitDemoSpace/SuperTextView/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/gitDemoSpace/SuperTextView/app/src/main/res/layout/main.xml" value="0.17147922998986828" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/date_wheel_bg.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/timepicker_sel_text_item.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_meeting_list.xml" value="0.22327898550724637" />
