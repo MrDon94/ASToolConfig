@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="incorrect" />
+      <item value="tampered" />
+      <item value="Apply single debouncing for the view's click." />
       <item value="ascent" />
       <item value="Paint flag that enables antialiasing when drawing." />
       <item value="Repository" />
@@ -48,9 +51,6 @@
       <item value="Approval" />
       <item value="on a null object reference" />
       <item value="UNSPECIFIED" />
-      <item value="PENDING" />
-      <item value="repository" />
-      <item value="Not yet implemented" />
     </histories>
     <option name="languageScores">
       <map>
