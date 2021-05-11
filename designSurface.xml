@@ -3,6 +3,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/gitDemoSpace/CoroutinesWanAndroid/app/src/main/res/layout/dialog_project_category.xml" value="0.1947463768115942" />
+        <entry key="..\:/gitDemoSpace/CoroutinesWanAndroid/app/src/main/res/layout/fragment_user_share_list.xml" value="0.33605072463768115" />
+        <entry key="..\:/gitDemoSpace/CoroutinesWanAndroid/app/src/main/res/layout/fragment_wesite_detail.xml" value="0.1956521739130435" />
+        <entry key="..\:/gitDemoSpace/CoroutinesWanAndroid/app/src/main/res/layout/recycler_home_article.xml" value="0.1956521739130435" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/drawable/date_wheel_bg.xml" value="0.36770833333333336" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/drawable/edit_cursor.xml" value="0.36770833333333336" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/drawable/ic_label_flag.xml" value="0.36770833333333336" />
@@ -14,6 +17,7 @@
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/activity_survey_detail.xml" value="0.34193840579710144" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/fragment_application_child.xml" value="0.20652173913043478" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/fragment_mine.xml" value="0.20244565217391305" />
+        <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/item_survey.xml" value="0.1956521739130435" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/popup_update_time.xml" value="0.20833333333333334" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/time_scroller_toolbar.xml" value="0.35260416666666666" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/timepicker_layout.xml" value="0.4253731343283582" />
