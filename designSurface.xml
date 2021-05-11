@@ -3,6 +3,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/gitDemoSpace/CoroutinesWanAndroid/app/src/main/res/layout/dialog_project_category.xml" value="0.1947463768115942" />
+        <entry key="..\:/gitDemoSpace/CoroutinesWanAndroid/app/src/main/res/layout/fragment_knowledge_system.xml" value="0.33061594202898553" />
+        <entry key="..\:/gitDemoSpace/CoroutinesWanAndroid/app/src/main/res/layout/fragment_shared_user.xml" value="0.33061594202898553" />
         <entry key="..\:/gitDemoSpace/CoroutinesWanAndroid/app/src/main/res/layout/fragment_user_share_list.xml" value="0.33605072463768115" />
         <entry key="..\:/gitDemoSpace/CoroutinesWanAndroid/app/src/main/res/layout/fragment_wesite_detail.xml" value="0.1956521739130435" />
         <entry key="..\:/gitDemoSpace/CoroutinesWanAndroid/app/src/main/res/layout/recycler_home_article.xml" value="0.1956521739130435" />
