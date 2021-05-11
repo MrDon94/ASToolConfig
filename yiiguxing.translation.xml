@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This value is used for height calculation if LayoutParams does not force TextView to have an exact height. Setting this value overrides previous maximum height configurations such as {@link setMaxLines(int)} or {@link setLines(int)}." />
       <item value="Ripple" />
       <item value="incorrect" />
       <item value="tampered" />
@@ -50,7 +51,6 @@
       <item value="specification" />
       <item value="ON DUTY DRILLER" />
       <item value="Approval" />
-      <item value="on a null object reference" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,7 +62,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620261480147" />
+    <option name="lastTrimTime" value="1620695784678" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
