@@ -24,6 +24,7 @@
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/activity_survey_detail.xml" value="0.34193840579710144" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/fragment_application_child.xml" value="0.20652173913043478" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/fragment_mine.xml" value="0.20244565217391305" />
+        <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/item_home_platform_service.xml" value="0.17147922998986828" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/item_survey.xml" value="0.1956521739130435" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/popup_update_time.xml" value="0.20833333333333334" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/time_scroller_toolbar.xml" value="0.35260416666666666" />
@@ -48,6 +49,7 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/tv_item.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/common/src/main/res/layout/activity_toolbar.xml" value="0.22010869565217392" />
         <entry key="..\:/gitWorkSpace/Borehole/common/src/main/res/layout/toolbar_layout.xml" value="0.22010869565217392" />
+        <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/activity_sop_detail.xml" value="0.21920289855072464" />
         <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/fragment_sop_list.xml" value="0.1" />
         <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/fragment_user.xml" value="0.2210144927536232" />
         <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/sop_task_filter_layout.xml" value="0.1" />
