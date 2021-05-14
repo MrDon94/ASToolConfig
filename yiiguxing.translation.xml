@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="and rely on the plain 'equals' otherwise" />
+      <item value="Use appropriate comparator's method if both items implement the interface" />
       <item value="Greater" />
       <item value="This value is used for height calculation if LayoutParams does not force TextView to have an exact height. Setting this value overrides previous maximum height configurations such as {@link setMaxLines(int)} or {@link setLines(int)}." />
       <item value="Ripple" />
@@ -49,8 +51,6 @@
       <item value="the remote end hung up unexpectedly" />
       <item value="ignore Other Person" />
       <item value="Vice" />
-      <item value="specification" />
-      <item value="ON DUTY DRILLER" />
     </histories>
     <option name="languageScores">
       <map>
