@@ -2,8 +2,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/gitDemoSpace/BaseRecyclerViewAdapterHelper/app/src/main/res/layout/activity_node_section.xml" value="0.35260416666666666" />
+        <entry key="..\:/gitDemoSpace/BaseRecyclerViewAdapterHelper/app/src/main/res/layout/activity_section_uer.xml" value="0.35260416666666666" />
         <entry key="..\:/gitDemoSpace/BaseRecyclerViewAdapterHelper/app/src/main/res/layout/activity_universal_recycler.xml" value="0.35260416666666666" />
+        <entry key="..\:/gitDemoSpace/BaseRecyclerViewAdapterHelper/app/src/main/res/layout/def_section_head.xml" value="0.35260416666666666" />
         <entry key="..\:/gitDemoSpace/BaseRecyclerViewAdapterHelper/app/src/main/res/layout/empty_view.xml" value="0.35260416666666666" />
+        <entry key="..\:/gitDemoSpace/BaseRecyclerViewAdapterHelper/app/src/main/res/layout/head_view.xml" value="0.35260416666666666" />
         <entry key="..\:/gitDemoSpace/BaseRecyclerViewAdapterHelper/app/src/main/res/layout/item_movie.xml" value="0.21603260869565216" />
         <entry key="..\:/gitDemoSpace/CoroutinesWanAndroid/app/src/main/res/layout/dialog_project_category.xml" value="0.1947463768115942" />
         <entry key="..\:/gitDemoSpace/CoroutinesWanAndroid/app/src/main/res/layout/fragment_knowledge_system.xml" value="0.33061594202898553" />
@@ -72,6 +76,7 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_expand_chidren.xml" value="0.2128623188405797" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis_execute_expand_parent.xml" value="0.2128623188405797" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis_execute_harm_children.xml" value="0.35260416666666666" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis_execute_list.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/time_scroller_toolbar.xml" value="0.22010869565217392" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/timepicker_layout.xml" value="0.22010869565217392" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/timepicker_line.xml" value="0.35260416666666666" />
