@@ -20,6 +20,7 @@
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/drawable/date_wheel_bg.xml" value="0.36770833333333336" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/drawable/edit_cursor.xml" value="0.36770833333333336" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/drawable/ic_bmp.xml" value="0.36770833333333336" />
+        <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/drawable/ic_delete.xml" value="0.36770833333333336" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/drawable/ic_doc.xml" value="0.36770833333333336" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/drawable/ic_down_arrow.xml" value="0.36770833333333336" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/drawable/ic_file_bmp.xml" value="0.36770833333333336" />
@@ -44,6 +45,7 @@
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/activity_guide_book_detail.xml" value="0.25" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/activity_login.xml" value="0.20833333333333334" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/activity_login2.xml" value="0.1953125" />
+        <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/activity_photo_list.xml" value="0.29981884057971014" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/activity_safe_standard.xml" value="0.3115942028985507" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/activity_safe_standard_add.xml" value="0.33" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/activity_survey.xml" value="0.20833333333333334" />
@@ -52,10 +54,12 @@
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/fragment_application_child.xml" value="0.20652173913043478" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/fragment_mine.xml" value="0.20244565217391305" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/item_attachment.xml" value="0.302536231884058" />
+        <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/item_camera.xml" value="0.29981884057971014" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/item_execution_content.xml" value="0.29981884057971014" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/item_execution_content_head.xml" value="0.29981884057971014" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/item_guide_book.xml" value="0.30842391304347827" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/item_home_platform_service.xml" value="0.17147922998986828" />
+        <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/item_photo.xml" value="0.29981884057971014" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/item_safe_standard.xml" value="0.30570652173913043" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/item_survey.xml" value="0.1956521739130435" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/layout/popup_update_time.xml" value="0.20833333333333334" />
@@ -74,12 +78,18 @@
         <entry key="..\:/gitDemoSpace/SuperTextView/app/src/main/res/layout/layout3.xml" value="0.2105978260869565" />
         <entry key="..\:/gitDemoSpace/SuperTextView/app/src/main/res/layout/main.xml" value="0.21603260869565216" />
         <entry key="..\:/gitDemoSpace/databinding-recycler-adapter-master/sample/src/main/res/layout/activity_dynamic.xml" value="0.2318840579710145" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/bg_photo.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/date_wheel_bg.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/timepicker_sel_text_item.xml" value="0.36770833333333336" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_asset_repair_detail.xml" value="0.2006340579710145" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_execute_common_photo.xml" value="0.2006340579710145" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_meeting_add.xml" value="0.2164855072463768" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_meeting_list.xml" value="0.22327898550724637" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/include_meeting_add_base.xml" value="0.2164855072463768" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_camera.xml" value="0.3473731884057971" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_expand_chidren.xml" value="0.2128623188405797" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_licence_apply_expand_chidren.xml" value="0.2006340579710145" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_photo.xml" value="0.2006340579710145" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis_execute_expand_parent.xml" value="0.2128623188405797" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis_execute_harm_children.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis_execute_list.xml" value="0.35260416666666666" />
