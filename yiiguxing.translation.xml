@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The real path，But you can't get access from AndroidQ" />
       <item value="Whether to open camera button" />
       <item value="Schedules the layout animation to be played after the next layout pass of this view group. This can be used to restart the layout animation when the content of the view group changes or when the activity is paused and resumed." />
       <item value="schedule" />
@@ -50,7 +51,6 @@
       <item value="cost time" />
       <item value="exam standards" />
       <item value="exam subtitle" />
-      <item value="exam summary" />
     </histories>
     <option name="languageScores">
       <map>
