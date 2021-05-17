@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="completion" />
       <item value="executive staff" />
       <item value="executive person" />
       <item value="shuffled" />
@@ -50,7 +51,6 @@
       <item value="disable" />
       <item value="blank Format" />
       <item value="exam duration" />
-      <item value="exam" />
     </histories>
     <option name="languageScores">
       <map>
