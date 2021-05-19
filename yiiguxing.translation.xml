@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="consumer" />
       <item value="Adjuvant" />
       <item value="Tool Accessories" />
       <item value="DRUG CONSUMPTION" />
@@ -44,7 +45,6 @@
       <item value="wrong" />
       <item value="gen List" />
       <item value="period" />
-      <item value="consumer" />
       <item value="pin" />
       <item value="ripple" />
       <item value="Duplicate" />
