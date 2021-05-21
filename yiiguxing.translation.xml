@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns `true` if this nullable char sequence is either `null` or empty." />
+      <item value="Returns `true` if this nullable char sequence is either `null` or empty or consists solely of whitespace characters." />
       <item value="encrypt" />
       <item value="socialism" />
       <item value="consumer" />
@@ -49,8 +51,6 @@
       <item value="period" />
       <item value="pin" />
       <item value="ripple" />
-      <item value="Duplicate" />
-      <item value="instrument" />
     </histories>
     <option name="languageScores">
       <map>
