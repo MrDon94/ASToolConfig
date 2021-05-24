@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="displacement" />
       <item value="material" />
       <item value="Finish pending, and start the download runnable." />
       <item value="Already connected to the server, and received the Http-response." />
@@ -50,7 +51,6 @@
       <item value="consumption records" />
       <item value="CONSTRUCTION UNDER" />
       <item value="definition" />
-      <item value="transer" />
     </histories>
     <option name="languageScores">
       <map>
