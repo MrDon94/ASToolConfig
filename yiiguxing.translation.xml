@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Finish pending, and start the download runnable." />
+      <item value="Already connected to the server, and received the Http-response." />
+      <item value="Unlike other methods in {@link FileDownloadListener}, BlockComplete is executed in other thread than main as default, when you receive this execution, it means has already completed downloading, but just block the execution of {@link completed(BaseDownloadTask)}. therefore, you can unzip or do some ending operation before {@link completed(BaseDownloadTask)} in other threads." />
+      <item value="Task is paused, the vast majority of cases is invoking the {@link BaseDownloadTaskpause()} manually." />
+      <item value="Occur a exception, but don't has any chance to retry." />
+      <item value="There has already had some same Tasks(Same-URL &amp; Same-SavePath) in Pending-Queue or is running." />
+      <item value="block Complete" />
+      <item value="progress" />
+      <item value="pending" />
       <item value="Returns `true` if this nullable char sequence is either `null` or empty." />
       <item value="Returns `true` if this nullable char sequence is either `null` or empty or consists solely of whitespace characters." />
       <item value="encrypt" />
@@ -42,15 +51,6 @@
       <item value="definition" />
       <item value="transer" />
       <item value="guide" />
-      <item value="Rationale" />
-      <item value="DENIED" />
-      <item value="Deny" />
-      <item value="Grant" />
-      <item value="wrong" />
-      <item value="gen List" />
-      <item value="period" />
-      <item value="pin" />
-      <item value="ripple" />
     </histories>
     <option name="languageScores">
       <map>
