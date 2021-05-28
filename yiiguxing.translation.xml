@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Descending" />
+      <item value="Sorts elements in the list in-place according to natural sort order of the value returned by specified [selector] function. The sort is _stable_. It means that equal elements preserve their order relative to each other after sorting." />
       <item value="fare" />
       <item value="empty barrel" />
       <item value="section range" />
@@ -49,8 +51,6 @@
       <item value="sweep" />
       <item value="concurrent" />
       <item value="Async" />
-      <item value="grant" />
-      <item value="SECONDS" />
     </histories>
     <option name="languageScores">
       <map>
