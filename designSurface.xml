@@ -189,10 +189,13 @@
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/btn_left_order.xml" value="0.5515625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/btn_today_order.xml" value="0.5515625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/ic_main_network.xml" value="0.5515625" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_equip_sacan.xml" value="0.35234375" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_face_access.xml" value="0.1" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_issue_detail.xml" value="0.5278436018957346" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_main.xml" value="0.35625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_main_viewpager_one_layout.xml" value="0.30097087378640774" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_settings.xml" value="0.2671800947867299" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_home_page.xml" value="0.4727488151658768" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_home_page_view.xml" value="0.4727488151658768" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_issue_list.xml" value="0.5278436018957346" />
@@ -200,6 +203,11 @@
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/license_details_operation.xml" value="0.2825829383886256" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/license_step_operation_layout.xml" value="0.5017772511848341" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/view_main_left_panel.xml" value="0.27014218009478674" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/xml/app_setting.xml" value="0.2671800947867299" />
+        <entry key="..\:/gitWorkSpace/SOM/devbox-core/src/main/res/drawable/_internal_toolbar_shadow.xml" value="0.5515625" />
+        <entry key="..\:/gitWorkSpace/SOM/devbox-core/src/main/res/layout/_internal_activity_base.xml" value="0.27366504854368934" />
+        <entry key="..\:/gitWorkSpace/SOM/devbox-core/src/main/res/layout/_internal_view_toolbar_container.xml" value="0.27366504854368934" />
+        <entry key="..\:/gitWorkSpace/SOM/devbox-core/src/main/res/layout/_internal_view_toolbar_light.xml" value="0.2671800947867299" />
         <entry key="..\:/gitWorkSpace/dmpopp/app/src/main/res/layout/activity_add_repair.xml" value="0.1" />
         <entry key="..\:/gitWorkSpace/dmpopp/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/gitWorkSpace/somdemo/app/src/main/res/drawable/_internal_toolbar_shadow.xml" value="0.36770833333333336" />
@@ -215,6 +223,7 @@
         <entry key="..\:/gitWorkSpace/somdemo/app/src/main/res/drawable/shape_select_date_bg.xml" value="0.21041666666666667" />
         <entry key="..\:/gitWorkSpace/somdemo/app/src/main/res/drawable/toast_black.xml" value="0.21041666666666667" />
         <entry key="..\:/gitWorkSpace/somdemo/app/src/main/res/layout/activity_detail.xml" value="0.24010416666666667" />
+        <entry key="..\:/gitWorkSpace/somdemo/app/src/main/res/layout/activity_equip_scan.xml" value="0.24010416666666667" />
         <entry key="..\:/gitWorkSpace/somdemo/app/src/main/res/layout/activity_image_preview.xml" value="0.2046875" />
         <entry key="..\:/gitWorkSpace/somdemo/app/src/main/res/layout/activity_image_view.xml" value="0.29483695652173914" />
         <entry key="..\:/gitWorkSpace/somdemo/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
