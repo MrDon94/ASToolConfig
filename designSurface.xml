@@ -203,17 +203,23 @@
         <entry key="..\:/gitWorkSpace/dmpopp/app/src/main/res/layout/activity_add_repair.xml" value="0.1" />
         <entry key="..\:/gitWorkSpace/dmpopp/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/gitWorkSpace/somdemo/app/src/main/res/drawable/_internal_toolbar_shadow.xml" value="0.36770833333333336" />
+        <entry key="..\:/gitWorkSpace/somdemo/app/src/main/res/drawable/bg_server_dialog_title.xml" value="1.0" />
         <entry key="..\:/gitWorkSpace/somdemo/app/src/main/res/drawable/btn_energy_consume.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/somdemo/app/src/main/res/drawable/btn_file_query.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/somdemo/app/src/main/res/drawable/btn_issue_track.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/somdemo/app/src/main/res/drawable/btn_left_order.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/somdemo/app/src/main/res/drawable/btn_today_order.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/somdemo/app/src/main/res/drawable/ic_main_network.xml" value="0.36770833333333336" />
+        <entry key="..\:/gitWorkSpace/somdemo/app/src/main/res/drawable/selector_equipt_detail_type.xml" value="0.21041666666666667" />
+        <entry key="..\:/gitWorkSpace/somdemo/app/src/main/res/drawable/shape_equip_bg.xml" value="0.21041666666666667" />
+        <entry key="..\:/gitWorkSpace/somdemo/app/src/main/res/drawable/shape_select_date_bg.xml" value="0.21041666666666667" />
+        <entry key="..\:/gitWorkSpace/somdemo/app/src/main/res/drawable/toast_black.xml" value="0.21041666666666667" />
         <entry key="..\:/gitWorkSpace/somdemo/app/src/main/res/layout/activity_detail.xml" value="0.2046875" />
         <entry key="..\:/gitWorkSpace/somdemo/app/src/main/res/layout/activity_image_preview.xml" value="0.2046875" />
         <entry key="..\:/gitWorkSpace/somdemo/app/src/main/res/layout/activity_image_view.xml" value="0.29483695652173914" />
         <entry key="..\:/gitWorkSpace/somdemo/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/gitWorkSpace/somdemo/app/src/main/res/layout/view_main_left_panel.xml" value="0.29483695652173914" />
+        <entry key="..\:/gitWorkSpace/somdemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21041666666666667" />
         <entry key="..\:/gitWorkSpace/symp/app/src/main/res/drawable-anydpi/ic_png.xml" value="0.36770833333333336" />
       </map>
     </option>
