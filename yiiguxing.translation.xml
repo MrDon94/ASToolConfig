@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="camera" />
       <item value="determine" />
       <item value="clip" />
       <item value="Implementors of LayoutManager should define whether or not it uses AutoMeasure by overriding {@link isAutoMeasureEnabled()}." />
@@ -50,7 +51,6 @@
       <item value="This value is used for height calculation if LayoutParams does not force TextView to have an exact height. Setting this value overrides previous maximum height configurations such as {@link setMaxLines(int)} or {@link setLines(int)}." />
       <item value="Ripple" />
       <item value="incorrect" />
-      <item value="tampered" />
     </histories>
     <option name="languageScores">
       <map>
