@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="To suppress this warning, remove &quot;buildToolsVersion '28.0.3'&quot; from your build.gradle file, as each version of the Android Gradle Plugin now has a default version of the build tools." />
       <item value="camera" />
       <item value="determine" />
       <item value="clip" />
@@ -50,7 +51,6 @@
       <item value="Greater" />
       <item value="This value is used for height calculation if LayoutParams does not force TextView to have an exact height. Setting this value overrides previous maximum height configurations such as {@link setMaxLines(int)} or {@link setLines(int)}." />
       <item value="Ripple" />
-      <item value="incorrect" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,7 +62,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622421054623" />
+    <option name="lastTrimTime" value="1623027641051" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
