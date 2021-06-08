@@ -171,6 +171,7 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_meeting_add.xml" value="0.2164855072463768" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_meeting_list.xml" value="0.22327898550724637" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_safe_analysis_add.xml" value="0.19293478260869565" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_safe_analysis_detail.xml" value="0.19293478260869565" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_safe_analysis_list.xml" value="0.19519927536231885" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_select_signature_staff.xml" value="0.19293478260869565" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_work_standard_run.xml" value="0.17147922998986828" />
@@ -184,7 +185,9 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_work.xml" value="0.20199275362318841" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/include_meeting_add_base.xml" value="0.2164855072463768" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_camera.xml" value="0.3473731884057971" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_children.xml" value="0.32971014492753625" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_expand_chidren.xml" value="0.2128623188405797" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_expand_parent.xml" value="0.19293478260869565" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_filter.xml" value="0.19519927536231885" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_filter_header.xml" value="0.19519927536231885" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_level_tree.xml" value="0.19293478260869565" />
@@ -270,6 +273,7 @@
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_preview_pdf.xml" value="0.4531990521327014" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_problem_list.xml" value="0.2618483412322275" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_safe_analysis_add.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_safe_analysis_detail.xml" value="0.25888625592417064" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_safe_analysis_list.xml" value="0.5525" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_select_signature_staff.xml" value="0.25888625592417064" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_settings.xml" value="0.2671800947867299" />
@@ -281,6 +285,9 @@
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_safe_analysis_add_step.xml" value="0.25888625592417064" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_safe_analysis_add_step_params.xml" value="0.25888625592417064" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_safe_analysis_add_step_select.xml" value="0.25888625592417064" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_children.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_expand_chidren.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_expand_parent.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_filter.xml" value="0.4531990521327014" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_filter_header.xml" value="0.4531990521327014" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_home_page_view.xml" value="0.4727488151658768" />
