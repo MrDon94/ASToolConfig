@@ -176,6 +176,8 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_select_signature_staff.xml" value="0.19293478260869565" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_work_standard_run.xml" value="0.17147922998986828" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/empty_view.xml" value="0.3351449275362319" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_licence_apply_file_upload.xml" value="0.19293478260869565" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_lift_licence_apply_add_base.xml" value="0.19293478260869565" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_safe_analysis_add_base.xml" value="0.19293478260869565" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_safe_analysis_add_person.xml" value="0.19293478260869565" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_safe_analysis_add_step.xml" value="0.32971014492753625" />
@@ -280,6 +282,8 @@
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_toolbar.xml" value="0.4531990521327014" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/empty_view.xml" value="0.4531990521327014" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_home_page.xml" value="0.4727488151658768" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_licence_apply_file_upload.xml" value="0.25888625592417064" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_lift_licence_apply_add_base.xml" value="0.25888625592417064" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_safe_analysis_add_base.xml" value="1.0" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_safe_analysis_add_person.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_safe_analysis_add_step.xml" value="0.25888625592417064" />
