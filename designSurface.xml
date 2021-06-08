@@ -154,6 +154,7 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/selector_button_submit.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/selector_filter_button.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/shape_autonomous_task_base_info_title_flag.xml" value="0.36770833333333336" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/shape_border_blue_12pt.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/shape_label_edit_layout_bg.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/shape_round_bg_blue_12pt.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/shape_round_bg_green_12pt.xml" value="0.36770833333333336" />
@@ -167,6 +168,12 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_asset_repair_add.xml" value="0.213768115942029" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_asset_repair_detail.xml" value="0.2006340579710145" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_execute_common_photo.xml" value="0.2006340579710145" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_licence_apply_add.xml" value="0.19293478260869565" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_licence_apply_detail.xml" value="0.19293478260869565" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_licence_apply_list.xml" value="0.19293478260869565" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_licence_delay_apply_add.xml" value="0.19293478260869565" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_lift_licence_apply_add.xml" value="0.19293478260869565" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_lift_licence_apply_detail.xml" value="0.19293478260869565" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_login.xml" value="0.17147922998986828" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_meeting_add.xml" value="0.2164855072463768" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_meeting_list.xml" value="0.22327898550724637" />
@@ -174,8 +181,17 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_safe_analysis_detail.xml" value="0.19293478260869565" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_safe_analysis_list.xml" value="0.19519927536231885" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_select_signature_staff.xml" value="0.19293478260869565" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_work_permit_common_detail.xml" value="0.19293478260869565" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_work_standard_run.xml" value="0.17147922998986828" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/empty_view.xml" value="0.3351449275362319" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_licence_apply_add_base.xml" value="0.19293478260869565" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_licence_apply_add_config.xml" value="0.19293478260869565" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_licence_apply_add_person.xml" value="0.19293478260869565" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_licence_apply_detail_approve.xml" value="0.19293478260869565" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_licence_apply_detail_base.xml" value="0.19293478260869565" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_licence_apply_detail_config.xml" value="0.32971014492753625" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_licence_apply_detail_person.xml" value="0.32971014492753625" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_licence_apply_file_show.xml" value="0.32971014492753625" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_licence_apply_file_upload.xml" value="0.19293478260869565" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_lift_licence_apply_add_base.xml" value="0.19293478260869565" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_safe_analysis_add_base.xml" value="0.19293478260869565" />
@@ -188,12 +204,28 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/include_meeting_add_base.xml" value="0.2164855072463768" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_camera.xml" value="0.3473731884057971" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_children.xml" value="0.32971014492753625" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_common_licence_apply_approve_view.xml" value="0.32971014492753625" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_common_licence_apply_attach_view.xml" value="0.32971014492753625" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_common_licence_apply_base_lift_view.xml" value="0.19293478260869565" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_common_licence_apply_base_view.xml" value="0.19293478260869565" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_common_licence_apply_config_view.xml" value="0.19293478260869565" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_common_licence_apply_person_view.xml" value="0.32971014492753625" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_common_licence_execute_influence_view.xml" value="0.19293478260869565" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_common_safe_analysis_base_view.xml" value="0.32971014492753625" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_common_safe_analysis_person_view.xml" value="0.32971014492753625" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_common_safe_analysis_step_view.xml" value="0.32971014492753625" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_expand_chidren.xml" value="0.2128623188405797" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_expand_parent.xml" value="0.19293478260869565" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_filter.xml" value="0.19519927536231885" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_filter_header.xml" value="0.19519927536231885" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_level_tree.xml" value="0.19293478260869565" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_licence_apply_approve_detail.xml" value="0.19293478260869565" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_licence_apply_expand_chidren.xml" value="0.2006340579710145" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_licence_apply_expand_parent.xml" value="0.19293478260869565" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_licence_apply_file_show_head.xml" value="0.32971014492753625" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_licence_apply_file_show_list.xml" value="0.19293478260869565" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_licence_apply_file_upload.xml" value="0.32971014492753625" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_licence_apply_list.xml" value="0.19293478260869565" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_photo.xml" value="0.2006340579710145" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis.xml" value="0.19519927536231885" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis_add_step.xml" value="0.32971014492753625" />
@@ -205,6 +237,7 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis_step.xml" value="0.32971014492753625" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_signature_staff_parent_leaf.xml" value="0.32971014492753625" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_staff_name.xml" value="0.32971014492753625" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_work_detail.xml" value="0.32971014492753625" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/layout_recognizer_popup.xml" value="0.19293478260869565" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/time_scroller_toolbar.xml" value="0.22010869565217392" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/timepicker_layout.xml" value="0.22010869565217392" />
@@ -254,6 +287,7 @@
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/selector_button_submit.xml" value="0.5515625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/selector_filter_button.xml" value="0.5515625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/shape_autonomous_task_base_info_title_flag.xml" value="0.5515625" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/shape_border_blue_12pt.xml" value="0.5515625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/shape_label_edit_layout_bg.xml" value="0.5515625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/shape_round_bg_blue_12pt.xml" value="0.5515625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/shape_round_bg_green_12pt.xml" value="0.5515625" />
@@ -268,6 +302,12 @@
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_equip_sacan.xml" value="0.35234375" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_face_access.xml" value="0.1" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_issue_detail.xml" value="0.5278436018957346" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_licence_apply_add.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_licence_apply_detail.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_licence_apply_list.xml" value="0.25888625592417064" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_licence_delay_apply_add.xml" value="0.25888625592417064" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_lift_licence_apply_add.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_lift_licence_apply_detail.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_main.xml" value="0.35625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_main_viewpager_one_layout.xml" value="0.30097087378640774" />
@@ -280,16 +320,35 @@
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_select_signature_staff.xml" value="0.25888625592417064" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_settings.xml" value="0.2671800947867299" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_toolbar.xml" value="0.4531990521327014" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_work_permit_common_detail.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/empty_view.xml" value="0.4531990521327014" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_home_page.xml" value="0.4727488151658768" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_licence_apply_add_base.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_licence_apply_add_config.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_licence_apply_add_person.xml" value="0.25888625592417064" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_licence_apply_detail_approve.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_licence_apply_detail_base.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_licence_apply_detail_config.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_licence_apply_detail_person.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_licence_apply_file_show.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_licence_apply_file_upload.xml" value="0.25888625592417064" />
-        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_lift_licence_apply_add_base.xml" value="0.25888625592417064" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_lift_licence_apply_add_base.xml" value="0.2651699029126214" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_safe_analysis_add_base.xml" value="1.0" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_safe_analysis_add_person.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_safe_analysis_add_step.xml" value="0.25888625592417064" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_safe_analysis_add_step_params.xml" value="0.25888625592417064" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_safe_analysis_add_step_select.xml" value="0.25888625592417064" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_children.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_common_licence_apply_approve_view.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_common_licence_apply_attach_view.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_common_licence_apply_base_lift_view.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_common_licence_apply_base_view.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_common_licence_apply_config_view.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_common_licence_apply_person_view.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_common_licence_execute_influence_view.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_common_safe_analysis_base_view.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_common_safe_analysis_person_view.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_common_safe_analysis_step_view.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_expand_chidren.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_expand_parent.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_filter.xml" value="0.4531990521327014" />
@@ -297,6 +356,14 @@
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_home_page_view.xml" value="0.4727488151658768" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_issue_list.xml" value="0.5278436018957346" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_level_tree.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_licence_apply_approve_detail.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_licence_apply_approve_detail_head.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_licence_apply_expand_chidren.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_licence_apply_expand_parent.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_licence_apply_file_show_head.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_licence_apply_file_show_list.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_licence_apply_file_upload.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_licence_apply_list.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_safe_analysis.xml" value="0.2618483412322275" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_safe_analysis_add_step.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_safe_analysis_add_step_hazard_control.xml" value="0.4466824644549763" />
@@ -304,6 +371,7 @@
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_safe_analysis_step.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_signature_staff_parent_leaf.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_staff_name.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_work_detail.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/layout_recognizer_popup.xml" value="0.2651699029126214" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/license_common_detail_fragment.xml" value="0.37265625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/license_details_operation.xml" value="0.2825829383886256" />
