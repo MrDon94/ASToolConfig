@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Perform two calculations in parallel" />
+      <item value="amountof" />
+      <item value="Concurrently" />
+      <item value="Sequentially" />
+      <item value="concurrently" />
+      <item value="sequential" />
       <item value="mock" />
       <item value="true if the app has specified that changes in adapter content cannot change the size of the RecyclerView itself." />
       <item value="Widget" />
@@ -45,12 +51,6 @@
       <item value="Whether to open camera button" />
       <item value="Schedules the layout animation to be played after the next layout pass of this view group. This can be used to restart the layout animation when the content of the view group changes or when the activity is paused and resumed." />
       <item value="schedule" />
-      <item value="completion" />
-      <item value="executive staff" />
-      <item value="executive person" />
-      <item value="shuffled" />
-      <item value="Increments" />
-      <item value="and rely on the plain 'equals' otherwise" />
     </histories>
     <option name="languageScores">
       <map>

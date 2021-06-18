@@ -138,7 +138,12 @@
         <entry key="..\:/gitDemoSpace/Fracturing/common/src/main/res/layout/view_load_more.xml" value="0.33106884057971014" />
         <entry key="..\:/gitDemoSpace/Fracturing/common/src/main/res/layout/view_load_more_land.xml" value="0.4701388888888889" />
         <entry key="..\:/gitDemoSpace/Kotlin-Coroutine-Use-Cases-on-Android-master/app/src/main/res/layout/activity_main.xml" value="0.20697463768115942" />
+        <entry key="..\:/gitDemoSpace/Kotlin-Coroutine-Use-Cases-on-Android-master/app/src/main/res/layout/activity_networkrequestwithtimeout.xml" value="0.35260416666666666" />
+        <entry key="..\:/gitDemoSpace/Kotlin-Coroutine-Use-Cases-on-Android-master/app/src/main/res/layout/activity_perform2sequentialnetworkrequests.xml" value="0.20697463768115942" />
+        <entry key="..\:/gitDemoSpace/Kotlin-Coroutine-Use-Cases-on-Android-master/app/src/main/res/layout/activity_performnetworkrequestsconcurrently.xml" value="0.20697463768115942" />
         <entry key="..\:/gitDemoSpace/Kotlin-Coroutine-Use-Cases-on-Android-master/app/src/main/res/layout/activity_performsinglenetworkrequest.xml" value="0.20697463768115942" />
+        <entry key="..\:/gitDemoSpace/Kotlin-Coroutine-Use-Cases-on-Android-master/app/src/main/res/layout/activity_performvariableamountofnetworkrequestsconcurrently.xml" value="0.35260416666666666" />
+        <entry key="..\:/gitDemoSpace/Kotlin-Coroutine-Use-Cases-on-Android-master/app/src/main/res/layout/activity_retrynetworkrequest.xml" value="0.35260416666666666" />
         <entry key="..\:/gitDemoSpace/Kotlin-Coroutine-Use-Cases-on-Android-master/app/src/main/res/layout/toolbar.xml" value="0.20697463768115942" />
         <entry key="..\:/gitDemoSpace/MVVMCommon/app/src/main/res/layout/activity_device_list.xml" value="0.21014492753623187" />
         <entry key="..\:/gitDemoSpace/MVVMCommon/app/src/main/res/layout/activity_login.xml" value="0.21195652173913043" />
