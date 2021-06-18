@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="please check status of providers(disabled, not registered or in blacklist" />
       <item value="Calculation In Several" />
       <item value="Cooperative Cancellation" />
       <item value="Perform two calculations in parallel" />
@@ -50,7 +51,6 @@
       <item value="Tool Accessories" />
       <item value="DRUG CONSUMPTION" />
       <item value="The real path，But you can't get access from AndroidQ" />
-      <item value="Whether to open camera button" />
     </histories>
     <option name="languageScores">
       <map>
