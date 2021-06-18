@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mock" />
+      <item value="true if the app has specified that changes in adapter content cannot change the size of the RecyclerView itself." />
       <item value="Widget" />
       <item value="notch" />
       <item value="To suppress this warning, remove &quot;buildToolsVersion '28.0.3'&quot; from your build.gradle file, as each version of the Android Gradle Plugin now has a default version of the build tools." />
@@ -49,8 +51,6 @@
       <item value="shuffled" />
       <item value="Increments" />
       <item value="and rely on the plain 'equals' otherwise" />
-      <item value="Use appropriate comparator's method if both items implement the interface" />
-      <item value="Greater" />
     </histories>
     <option name="languageScores">
       <map>
