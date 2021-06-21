@@ -302,7 +302,14 @@
         <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/option_data_dialog.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/sop_task_filter_layout.xml" value="0.1" />
         <entry key="..\:/gitWorkSpace/Esop/common/src/main/res/layout/activity_toolbar.xml" value="0.1" />
+        <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/drawable/selector_menu_issue_tracking.xml" value="0.36770833333333336" />
+        <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/drawable/selector_menu_key_audit.xml" value="0.36770833333333336" />
+        <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/drawable/selector_menu_notify.xml" value="0.36770833333333336" />
+        <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/drawable/selector_menu_task.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/layout/activity_main.xml" value="0.21422101449275363" />
+        <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/layout/activity_notice_list.xml" value="0.21557971014492755" />
+        <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/layout/activity_supervise_task_list.xml" value="0.35260416666666666" />
+        <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/layout/activity_task_list.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/layout/fragment_menu.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/layout/item_menu.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/SOM-kt/app/src/main/res/layout/activity_login.xml" value="0.37650602409638556" />
