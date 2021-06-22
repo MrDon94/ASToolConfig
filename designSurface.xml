@@ -337,6 +337,7 @@
         <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/drawable/shape_sop_task_dot_green.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/drawable/shape_task_submit_border_blue.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/activity_form.xml" value="0.17147922998986828" />
+        <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/activity_picture_preview.xml" value="0.29347826086956524" />
         <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/activity_plan_task.xml" value="0.17147922998986828" />
         <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/activity_sop_detail.xml" value="0.21920289855072464" />
         <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/activity_step_form.xml" value="0.20471014492753623" />
@@ -352,6 +353,7 @@
         <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/item_data_item_form.xml" value="0.3115942028985507" />
         <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/item_photo_form.xml" value="0.29981884057971014" />
         <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/item_photo_form_child.xml" value="0.29981884057971014" />
+        <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/item_picture_pireview.xml" value="0.29347826086956524" />
         <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/item_plan_task.xml" value="0.19293478260869565" />
         <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/item_remarks_form.xml" value="0.29981884057971014" />
         <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/item_rfid_form.xml" value="0.29981884057971014" />
@@ -363,6 +365,7 @@
         <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/sop_task_filter_layout.xml" value="0.1" />
         <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/supervise_task_filter_layout.xml" value="0.3115942028985507" />
         <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/task_filter_layout.xml" value="0.3115942028985507" />
+        <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/video_layout_cover.xml" value="0.29347826086956524" />
         <entry key="..\:/gitWorkSpace/Esop/common/src/main/res/drawable/edit_gray_bg.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Esop/common/src/main/res/layout/activity_toolbar.xml" value="0.1" />
         <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/drawable-anydpi/ic_default_head.xml" value="0.36770833333333336" />
@@ -388,6 +391,7 @@
         <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/layout/activity_form.xml" value="0.21557971014492755" />
         <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/layout/activity_main.xml" value="0.21422101449275363" />
         <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/layout/activity_notice_list.xml" value="0.21557971014492755" />
+        <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/layout/activity_picture_preview.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/layout/activity_sop_lib_details.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/layout/activity_sop_step.xml" value="0.21557971014492755" />
         <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/layout/activity_step_form.xml" value="0.35260416666666666" />
@@ -407,6 +411,7 @@
         <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/layout/item_menu.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/layout/item_photo_form.xml" value="0.20969202898550723" />
         <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/layout/item_photo_form_child.xml" value="0.35260416666666666" />
+        <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/layout/item_picture_pireview.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/layout/item_remarks_form.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/layout/item_rfid_form.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/layout/item_task.xml" value="0.21557971014492755" />
@@ -414,6 +419,7 @@
         <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/layout/pop_task_filter.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/layout/sop_adjust_info_layout.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/layout/sop_key_info_layout.xml" value="0.35260416666666666" />
+        <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/layout/video_layout_cover.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/EsopM/app/src/main/res/menu/menu_sop.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/SOM-kt/app/src/main/res/layout/activity_login.xml" value="0.37650602409638556" />
         <entry key="..\:/gitWorkSpace/SOM-kt/app/src/main/res/layout/activity_net_test.xml" value="0.37876506024096385" />
