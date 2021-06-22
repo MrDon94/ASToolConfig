@@ -502,7 +502,7 @@
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_safe_analysis_execute_detail.xml" value="0.2559241706161137" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_safe_analysis_execute_list.xml" value="0.2559241706161137" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_safe_analysis_list.xml" value="0.5525" />
-        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_select_signature_staff.xml" value="0.25888625592417064" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_select_signature_staff.xml" value="0.2712378640776699" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_settings.xml" value="0.2671800947867299" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_show_big_image.xml" value="0.25888625592417064" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_signature.xml" value="0.33515625" />
@@ -524,7 +524,7 @@
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_safe_analysis_add_person.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_safe_analysis_add_step.xml" value="0.2712378640776699" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_safe_analysis_add_step_params.xml" value="0.2712378640776699" />
-        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_safe_analysis_add_step_select.xml" value="0.25888625592417064" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_safe_analysis_add_step_select.xml" value="0.2712378640776699" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_camera.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_children.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_common_licence_apply_approve_view.xml" value="0.4466824644549763" />
