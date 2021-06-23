@@ -457,13 +457,24 @@
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/shape_autonomous_task_base_info_title_flag.xml" value="0.5515625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/shape_border_blue_12pt.xml" value="0.5515625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/shape_label_edit_layout_bg.xml" value="0.5515625" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/shape_round_bg_blue_12.xml" value="0.5515625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/shape_round_bg_blue_12pt.xml" value="0.5515625" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/shape_round_bg_blue_6.xml" value="0.5515625" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/shape_round_bg_green_12.xml" value="0.5515625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/shape_round_bg_green_12pt.xml" value="0.5515625" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/shape_round_bg_green_6.xml" value="0.5515625" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/shape_round_bg_grey_12.xml" value="0.5515625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/shape_round_bg_grey_12pt.xml" value="0.5515625" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/shape_round_bg_grey_6.xml" value="0.5515625" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/shape_round_bg_purple_6.xml" value="0.5515625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/shape_round_bg_purple_6pt.xml" value="0.5515625" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/shape_round_bg_purple_8.xml" value="0.5515625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/shape_round_bg_purple_8pt.xml" value="0.5515625" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/shape_round_bg_red_12.xml" value="0.5515625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/shape_round_bg_red_12pt.xml" value="0.5515625" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/shape_round_bg_white_12.xml" value="0.5515625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/shape_round_bg_white_12pt.xml" value="0.5515625" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/shape_round_bg_white_6.xml" value="0.5515625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/shape_round_bg_white_6pt.xml" value="0.5515625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/shape_signature_border_bg_gray.xml" value="0.5515625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/drawable/shape_signature_border_blue.xml" value="0.5515625" />
@@ -483,13 +494,13 @@
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_licence_approve_list.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_licence_delay_apply_add.xml" value="0.2688106796116505" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_licence_execute_add.xml" value="0.4395734597156398" />
-        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_licence_execute_detail.xml" value="0.2559241706161137" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_licence_execute_detail.xml" value="0.2688106796116505" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_licence_execute_handle.xml" value="0.2559241706161137" />
-        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_licence_execute_list.xml" value="0.2559241706161137" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_licence_execute_list.xml" value="0.2688106796116505" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_lift_licence_apply_add.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_lift_licence_apply_detail.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_lift_licence_execute_add.xml" value="0.27063106796116504" />
-        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_lift_licence_execute_detail.xml" value="0.2559241706161137" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_lift_licence_execute_detail.xml" value="0.2688106796116505" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_main.xml" value="0.35625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_main_viewpager_one_layout.xml" value="0.30097087378640774" />
@@ -504,8 +515,8 @@
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_safe_analysis_list.xml" value="0.5525" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_select_signature_staff.xml" value="0.2712378640776699" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_settings.xml" value="0.2671800947867299" />
-        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_show_big_image.xml" value="0.25888625592417064" />
-        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_signature.xml" value="0.33515625" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_show_big_image.xml" value="0.2688106796116505" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_signature.xml" value="0.34609375" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_toolbar.xml" value="0.4531990521327014" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_work_permit_common_detail.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/empty_view.xml" value="0.4531990521327014" />
@@ -556,7 +567,7 @@
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_licence_apply_list.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_licence_approve_list.xml" value="0.2688106796116505" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_licence_execute_delay_detail.xml" value="0.4395734597156398" />
-        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_licence_execute_expand_chidren.xml" value="0.2559241706161137" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_licence_execute_expand_chidren.xml" value="0.2688106796116505" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_licence_execute_list.xml" value="0.4395734597156398" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_photo.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_photo_no_delete.xml" value="0.4466824644549763" />
@@ -564,7 +575,7 @@
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_safe_analysis_add_step.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_safe_analysis_add_step_hazard_control.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_safe_analysis_add_step_select.xml" value="0.4466824644549763" />
-        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_safe_analysis_execute_expand_parent.xml" value="0.2559241706161137" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_safe_analysis_execute_expand_parent.xml" value="0.2688106796116505" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_safe_analysis_execute_harm_children.xml" value="0.4395734597156398" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_safe_analysis_execute_list.xml" value="0.4395734597156398" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_safe_analysis_step.xml" value="0.4466824644549763" />
