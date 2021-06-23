@@ -481,7 +481,7 @@
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_licence_apply_list.xml" value="0.2688106796116505" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_licence_approve_add.xml" value="0.25888625592417064" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_licence_approve_list.xml" value="0.4466824644549763" />
-        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_licence_delay_apply_add.xml" value="0.25888625592417064" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_licence_delay_apply_add.xml" value="0.2688106796116505" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_licence_execute_add.xml" value="0.4395734597156398" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_licence_execute_detail.xml" value="0.2559241706161137" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_licence_execute_handle.xml" value="0.2559241706161137" />
@@ -512,13 +512,13 @@
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_home_page.xml" value="0.4727488151658768" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_licence_apply_add_base.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_licence_apply_add_config.xml" value="0.4466824644549763" />
-        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_licence_apply_add_person.xml" value="0.25888625592417064" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_licence_apply_add_person.xml" value="0.2688106796116505" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_licence_apply_detail_approve.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_licence_apply_detail_base.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_licence_apply_detail_config.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_licence_apply_detail_person.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_licence_apply_file_show.xml" value="0.4466824644549763" />
-        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_licence_apply_file_upload.xml" value="0.25888625592417064" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_licence_apply_file_upload.xml" value="0.2688106796116505" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_lift_licence_apply_add_base.xml" value="0.2651699029126214" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_safe_analysis_add_base.xml" value="0.33" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_safe_analysis_add_person.xml" value="0.4466824644549763" />
