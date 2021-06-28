@@ -206,7 +206,7 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/ic_icon_close_red.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/selector_button_submit.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/selector_filter_button.xml" value="0.36770833333333336" />
-        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/selector_switch_button_bg.xml" value="0.3466666666666667" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/selector_switch_button_bg.xml" value="0.36205128205128206" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/shape_autonomous_task_base_info_title_flag.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/shape_border_blue_12pt.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/shape_label_edit_layout_bg.xml" value="0.36770833333333336" />
@@ -349,11 +349,12 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_signature.xml" value="0.19067028985507245" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_signature_staff_parent_leaf.xml" value="0.32971014492753625" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_staff_name.xml" value="0.32971014492753625" />
-        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_sync.xml" value="0.33697916666666666" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_sync.xml" value="0.9" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_upcoming_filter.xml" value="0.20185185185185187" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_work_detail.xml" value="0.32971014492753625" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/layout_recognizer_popup.xml" value="0.20185185185185187" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/pop_sync_download.xml" value="0.35260416666666666" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/pop_sync_upload.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/time_scroller_toolbar.xml" value="0.22010869565217392" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/timepicker_layout.xml" value="0.22010869565217392" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/timepicker_line.xml" value="0.35260416666666666" />
