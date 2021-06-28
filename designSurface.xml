@@ -39,6 +39,7 @@
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/drawable/ic_label_flag.xml" value="0.36770833333333336" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/drawable/ic_load_image_error.xml" value="0.36770833333333336" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/drawable/ic_load_image_placeholder.xml" value="0.36770833333333336" />
+        <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/drawable/ic_nav_contacts_selected.xml" value="0.1" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/drawable/ic_pdf.xml" value="0.36770833333333336" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/drawable/ic_png.xml" value="0.36770833333333336" />
         <entry key="..\:/gitDemoSpace/Fracturing/app/src/main/res/drawable/ic_right_arrow.xml" value="0.36770833333333336" />
@@ -200,6 +201,7 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/bg_search_filter.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/date_wheel_bg.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/et_cursor.xml" value="0.36770833333333336" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/ic_close.xml" value="0.36205128205128206" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/ic_icon_cancel_grey.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/ic_icon_close_red.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/selector_button_submit.xml" value="0.36770833333333336" />
@@ -207,6 +209,7 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/shape_autonomous_task_base_info_title_flag.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/shape_border_blue_12pt.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/shape_label_edit_layout_bg.xml" value="0.36770833333333336" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/shape_mine_login_out_button.xml" value="0.3466666666666667" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/shape_round_bg_blue_12pt.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/shape_round_bg_green_12pt.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/shape_round_bg_grey_12pt.xml" value="0.36770833333333336" />
@@ -355,6 +358,7 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/view_data_item_foot.xml" value="0.19293478260869565" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/view_search_filter.xml" value="0.20185185185185187" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/view_signature_combination.xml" value="0.19293478260869565" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/view_unsafe_select_category.xml" value="0.33179487179487177" />
         <entry key="..\:/gitWorkSpace/Borehole/common/src/main/res/drawable/ic_arrow_back_white.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/common/src/main/res/layout/activity_toolbar.xml" value="0.22010869565217392" />
         <entry key="..\:/gitWorkSpace/Borehole/common/src/main/res/layout/toolbar_layout.xml" value="0.22010869565217392" />
