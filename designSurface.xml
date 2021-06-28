@@ -293,6 +293,7 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_licence_apply_file_show.xml" value="0.32971014492753625" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_licence_apply_file_upload.xml" value="0.19293478260869565" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_lift_licence_apply_add_base.xml" value="0.19293478260869565" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_mine.xml" value="0.20185185185185187" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_safe_analysis_add_base.xml" value="0.19293478260869565" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_safe_analysis_add_person.xml" value="0.19293478260869565" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_safe_analysis_add_step.xml" value="0.32971014492753625" />
@@ -345,7 +346,8 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_staff_name.xml" value="0.32971014492753625" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_upcoming_filter.xml" value="0.20185185185185187" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_work_detail.xml" value="0.32971014492753625" />
-        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/layout_recognizer_popup.xml" value="0.19293478260869565" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/layout_recognizer_popup.xml" value="0.20185185185185187" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/pop_sync_download.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/time_scroller_toolbar.xml" value="0.22010869565217392" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/timepicker_layout.xml" value="0.22010869565217392" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/timepicker_line.xml" value="0.35260416666666666" />
