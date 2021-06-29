@@ -347,6 +347,8 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis_execute_harm_children.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis_execute_list.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis_step.xml" value="0.32971014492753625" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_search_text.xml" value="0.35260416666666666" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_search_type.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_signature.xml" value="0.19067028985507245" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_signature_staff_parent_leaf.xml" value="0.32971014492753625" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_staff_name.xml" value="0.32971014492753625" />
@@ -360,6 +362,7 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/timepicker_layout.xml" value="0.22010869565217392" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/timepicker_line.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/tv_item.xml" value="0.35260416666666666" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/view_common_search.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/view_data_item_foot.xml" value="0.19293478260869565" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/view_search_filter.xml" value="0.20185185185185187" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/view_signature_combination.xml" value="0.19293478260869565" />
