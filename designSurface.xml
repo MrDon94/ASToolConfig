@@ -150,6 +150,7 @@
         <entry key="..\:/gitDemoSpace/MVVMCommon/app/src/main/res/layout/activity_device_list.xml" value="0.21014492753623187" />
         <entry key="..\:/gitDemoSpace/MVVMCommon/app/src/main/res/layout/activity_login.xml" value="0.21195652173913043" />
         <entry key="..\:/gitDemoSpace/MVVMCommon/app/src/main/res/layout/item_device.xml" value="0.20833333333333334" />
+        <entry key="..\:/gitDemoSpace/RWidgetHelper-master/app/src/main/res/layout/activity_viewgroup.xml" value="0.35260416666666666" />
         <entry key="..\:/gitDemoSpace/SuperTextView/app/src/main/res/drawable/edit_cursor.xml" value="0.36205128205128206" />
         <entry key="..\:/gitDemoSpace/SuperTextView/app/src/main/res/layout/activity_main.xml" value="0.17147922998986828" />
         <entry key="..\:/gitDemoSpace/SuperTextView/app/src/main/res/layout/layout3.xml" value="0.2105978260869565" />
@@ -365,7 +366,7 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/timepicker_line.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/tv_item.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/view_common_search.xml" value="0.35260416666666666" />
-        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/view_data_item_foot.xml" value="0.19293478260869565" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/view_data_item_foot.xml" value="0.34717948717948716" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/view_search_filter.xml" value="0.20185185185185187" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/view_signature_combination.xml" value="0.19293478260869565" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/view_unsafe_select_category.xml" value="0.33179487179487177" />
