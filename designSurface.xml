@@ -151,6 +151,7 @@
         <entry key="..\:/gitDemoSpace/MVVMCommon/app/src/main/res/layout/activity_login.xml" value="0.21195652173913043" />
         <entry key="..\:/gitDemoSpace/MVVMCommon/app/src/main/res/layout/item_device.xml" value="0.20833333333333334" />
         <entry key="..\:/gitDemoSpace/RWidgetHelper-master/app/src/main/res/layout/activity_checked.xml" value="0.35260416666666666" />
+        <entry key="..\:/gitDemoSpace/RWidgetHelper-master/app/src/main/res/layout/activity_view.xml" value="0.35260416666666666" />
         <entry key="..\:/gitDemoSpace/RWidgetHelper-master/app/src/main/res/layout/activity_viewgroup.xml" value="0.35260416666666666" />
         <entry key="..\:/gitDemoSpace/SuperTextView/app/src/main/res/drawable/edit_cursor.xml" value="0.36205128205128206" />
         <entry key="..\:/gitDemoSpace/SuperTextView/app/src/main/res/layout/activity_main.xml" value="0.17147922998986828" />
@@ -355,6 +356,7 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis_execute_expand_parent.xml" value="0.2128623188405797" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis_execute_harm_children.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis_execute_list.xml" value="0.35260416666666666" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis_lib_detail.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis_step.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_search_text.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_search_type.xml" value="0.35260416666666666" />
