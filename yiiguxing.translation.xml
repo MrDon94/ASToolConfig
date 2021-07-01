@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="electricity place" />
       <item value="content Authority" />
       <item value="harm describe" />
       <item value="greater Than" />
@@ -50,7 +51,6 @@
       <item value="Already connected to the server, and received the Http-response." />
       <item value="Unlike other methods in {@link FileDownloadListener}, BlockComplete is executed in other thread than main as default, when you receive this execution, it means has already completed downloading, but just block the execution of {@link completed(BaseDownloadTask)}. therefore, you can unzip or do some ending operation before {@link completed(BaseDownloadTask)} in other threads." />
       <item value="Task is paused, the vast majority of cases is invoking the {@link BaseDownloadTaskpause()} manually." />
-      <item value="Occur a exception, but don't has any chance to retry." />
     </histories>
     <option name="languageScores">
       <map>
