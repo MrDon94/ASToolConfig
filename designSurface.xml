@@ -343,6 +343,7 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_filter_header.xml" value="0.19519927536231885" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_level_tree.xml" value="0.19293478260869565" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_licence_apply_approve_detail.xml" value="0.19293478260869565" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_licence_apply_approve_detail_head.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_licence_apply_expand_chidren.xml" value="0.2006340579710145" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_licence_apply_expand_parent.xml" value="0.19293478260869565" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_licence_apply_file_show_head.xml" value="0.32971014492753625" />
@@ -378,7 +379,7 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_sulfide_add_signature_name.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_sync.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_upcoming_filter.xml" value="0.20185185185185187" />
-        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_work_detail.xml" value="0.32971014492753625" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_work_detail.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/layout_recognizer_popup.xml" value="0.20185185185185187" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/pop_sync_download.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/pop_sync_upload.xml" value="0.35260416666666666" />
