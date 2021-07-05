@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Vice" />
       <item value="qualifications" />
       <item value="ascending" />
       <item value="electric" />
@@ -50,7 +51,6 @@
       <item value="empty barrel" />
       <item value="section range" />
       <item value="displacement" />
-      <item value="material" />
     </histories>
     <option name="languageScores">
       <map>
