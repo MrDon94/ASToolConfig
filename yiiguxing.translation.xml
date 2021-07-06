@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="signature" />
       <item value="category" />
       <item value="unit Nature" />
       <item value="permit" />
@@ -50,7 +51,6 @@
       <item value="deprecated" />
       <item value="party a_bulletin" />
       <item value="workload" />
-      <item value="total liquid" />
     </histories>
     <option name="languageScores">
       <map>
