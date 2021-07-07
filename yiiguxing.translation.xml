@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="region" />
       <item value="Step Harm" />
       <item value="filled" />
       <item value="indicator" />
@@ -50,7 +51,6 @@
       <item value="determine" />
       <item value="clip" />
       <item value="Implementors of LayoutManager should define whether or not it uses AutoMeasure by overriding {@link isAutoMeasureEnabled()}." />
-      <item value="Defines whether the measuring pass of layout should use the AutoMeasure mechanism of {@link RecyclerView} or if it should be done by the LayoutManager's implementation of {@link LayoutManageronMeasure(Recycler, State, int, int)}." />
     </histories>
     <option name="languageScores">
       <map>
