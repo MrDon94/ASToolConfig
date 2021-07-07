@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="filled" />
       <item value="indicator" />
       <item value="signature" />
       <item value="category" />
@@ -50,7 +51,6 @@
       <item value="Implementors of LayoutManager should define whether or not it uses AutoMeasure by overriding {@link isAutoMeasureEnabled()}." />
       <item value="Defines whether the measuring pass of layout should use the AutoMeasure mechanism of {@link RecyclerView} or if it should be done by the LayoutManager's implementation of {@link LayoutManageronMeasure(Recycler, State, int, int)}." />
       <item value="deprecated" />
-      <item value="party a_bulletin" />
     </histories>
     <option name="languageScores">
       <map>

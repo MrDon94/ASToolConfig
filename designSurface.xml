@@ -317,7 +317,7 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_lift_licence_apply_add_base.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_liquid_drill.xml" value="0.33425925925925926" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_liquid_monitor.xml" value="0.33179487179487177" />
-        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_mine.xml" value="0.20185185185185187" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_mine.xml" value="0.34717948717948716" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_safe_analysis_add_base.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_safe_analysis_add_person.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_safe_analysis_add_step.xml" value="0.35260416666666666" />
@@ -366,7 +366,7 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis_add_step.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis_add_step_hazard_control.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis_add_step_select.xml" value="0.35260416666666666" />
-        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis_execute_expand_parent.xml" value="0.31203703703703706" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis_execute_expand_parent.xml" value="0.34717948717948716" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis_execute_harm_children.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis_execute_list.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis_lib_detail.xml" value="0.35260416666666666" />
