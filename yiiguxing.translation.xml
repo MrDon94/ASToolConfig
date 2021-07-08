@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="control measure" />
       <item value="region" />
       <item value="Step Harm" />
       <item value="filled" />
@@ -50,7 +51,6 @@
       <item value="camera" />
       <item value="determine" />
       <item value="clip" />
-      <item value="Implementors of LayoutManager should define whether or not it uses AutoMeasure by overriding {@link isAutoMeasureEnabled()}." />
     </histories>
     <option name="languageScores">
       <map>
