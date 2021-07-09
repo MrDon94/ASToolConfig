@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Delay" />
       <item value="control measure" />
       <item value="region" />
       <item value="Step Harm" />
@@ -50,7 +51,6 @@
       <item value="To suppress this warning, remove &quot;buildToolsVersion '28.0.3'&quot; from your build.gradle file, as each version of the Android Gradle Plugin now has a default version of the build tools." />
       <item value="camera" />
       <item value="determine" />
-      <item value="clip" />
     </histories>
     <option name="languageScores">
       <map>
