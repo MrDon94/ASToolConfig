@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="conditional" />
+      <item value="invert Property" />
       <item value="invert" />
       <item value="identification" />
       <item value="Licence" />
@@ -49,8 +51,6 @@
       <item value="sequential" />
       <item value="mock" />
       <item value="true if the app has specified that changes in adapter content cannot change the size of the RecyclerView itself." />
-      <item value="Widget" />
-      <item value="notch" />
     </histories>
     <option name="languageScores">
       <map>
