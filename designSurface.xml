@@ -239,7 +239,7 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/shape_top_indicator_unselected_disable.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/timepicker_sel_text_item.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_amount_calculate.xml" value="0.20185185185185187" />
-        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_asset_repair.xml" value="0.1" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_asset_repair.xml" value="0.34717948717948716" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_asset_repair_add.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_asset_repair_detail.xml" value="0.2006340579710145" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_blowout_detail.xml" value="0.20185185185185187" />
@@ -247,8 +247,8 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_choose_work_content.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_danger_detail.xml" value="0.20185185185185187" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_execute_common_photo.xml" value="0.34717948717948716" />
-        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_leader_duty_add.xml" value="0.20185185185185187" />
-        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_leader_duty_list.xml" value="0.20185185185185187" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_leader_duty_add.xml" value="0.34717948717948716" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_leader_duty_list.xml" value="0.34717948717948716" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_licence_apply_add.xml" value="0.34717948717948716" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_licence_apply_detail.xml" value="0.34717948717948716" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_licence_apply_list.xml" value="0.35260416666666666" />
@@ -276,7 +276,8 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_oil_check_list.xml" value="0.20185185185185187" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_oil_check_sign.xml" value="0.20185185185185187" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_oil_problem_edit.xml" value="0.35260416666666666" />
-        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_produce_task_add.xml" value="0.20185185185185187" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_produce_task_add.xml" value="0.34717948717948716" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_produce_task_list.xml" value="0.34717948717948716" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_rectify_follow_add.xml" value="0.20185185185185187" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_report_apply_add.xml" value="0.1" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_report_list.xml" value="0.1" />
@@ -309,7 +310,10 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_work_standard_run.xml" value="0.17147922998986828" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/empty_view.xml" value="0.3351449275362319" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_execute_work.xml" value="0.35260416666666666" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_leader_duty_add_base.xml" value="0.35260416666666666" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_leader_duty_add_condition.xml" value="0.34717948717948716" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_leader_duty_add_material.xml" value="0.35260416666666666" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_leader_duty_add_param.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_licence_apply_add_base.xml" value="0.34717948717948716" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_licence_apply_add_base2.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_licence_apply_add_config.xml" value="0.34717948717948716" />
@@ -329,6 +333,9 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_liquid_monitor.xml" value="0.33179487179487177" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_meeting_detail_sign.xml" value="0.34717948717948716" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_mine.xml" value="0.34717948717948716" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_produce_risk.xml" value="0.35260416666666666" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_produce_task_info.xml" value="0.34717948717948716" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_produce_work.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_safe_analysis_add_base.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_safe_analysis_add_person.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_safe_analysis_add_step.xml" value="0.35260416666666666" />
@@ -339,6 +346,7 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_task_auto_work.xml" value="0.17147922998986828" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_work.xml" value="0.20199275362318841" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/include_meeting_add_base.xml" value="0.2164855072463768" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_asset_repair.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_camera.xml" value="0.3473731884057971" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_children.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_choose_work_content_child.xml" value="0.35260416666666666" />
@@ -363,6 +371,7 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_expand_parent.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_filter.xml" value="0.19519927536231885" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_filter_header.xml" value="0.19519927536231885" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_leader_duty_list.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_level_tree.xml" value="0.19293478260869565" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_licence_apply_approve_detail.xml" value="0.19293478260869565" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_licence_apply_approve_detail_head.xml" value="0.35260416666666666" />
@@ -381,6 +390,7 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_licence_execute_work_parent.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_meeting_ask.xml" value="0.2212962962962963" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_photo.xml" value="0.35260416666666666" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_produce_task.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis_add_step.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis_add_step_hazard_control.xml" value="0.35260416666666666" />
