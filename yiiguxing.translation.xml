@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="To bind different types of holder and solve different the bind events" />
       <item value="conditional" />
       <item value="invert Property" />
       <item value="invert" />
@@ -50,7 +51,6 @@
       <item value="concurrently" />
       <item value="sequential" />
       <item value="mock" />
-      <item value="true if the app has specified that changes in adapter content cannot change the size of the RecyclerView itself." />
     </histories>
     <option name="languageScores">
       <map>
