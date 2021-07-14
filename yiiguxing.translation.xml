@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pass in dynamic database name here. Otherwise it defaults to class name." />
       <item value="m Header Adapter.get Count()" />
       <item value="To bind different types of holder and solve different the bind events" />
       <item value="conditional" />
@@ -50,7 +51,6 @@
       <item value="Concurrently" />
       <item value="Sequentially" />
       <item value="concurrently" />
-      <item value="sequential" />
     </histories>
     <option name="languageScores">
       <map>
