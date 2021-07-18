@@ -247,6 +247,7 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_blowout_list.xml" value="0.1" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_choose_work_content.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_danger_detail.xml" value="0.20185185185185187" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_drill_fluid_add.xml" value="0.34717948717948716" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_execute_common_photo.xml" value="0.34717948717948716" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_hand_work.xml" value="0.19583333333333333" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_leader_duty_add.xml" value="0.34717948717948716" />
@@ -405,6 +406,7 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_notification_upgrade.xml" value="0.19583333333333333" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_photo.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_produce_task.xml" value="0.35260416666666666" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_report_apply_approve.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis_add_step.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/item_safe_analysis_add_step_hazard_control.xml" value="0.35260416666666666" />
