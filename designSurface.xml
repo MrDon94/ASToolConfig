@@ -478,10 +478,11 @@
         <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/form_grad_item.xml" value="0.20471014492753623" />
         <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/form_grad_radio_item.xml" value="0.17147922998986828" />
         <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/form_number_edit_item.xml" value="0.17147922998986828" />
-        <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/fragment_home.xml" value="0.20199275362318841" />
+        <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/fragment_home.xml" value="0.325" />
         <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/fragment_sop_list.xml" value="0.1" />
         <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/fragment_user.xml" value="0.2210144927536232" />
-        <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/home_middle_layout.xml" value="0.20199275362318841" />
+        <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/home_middle_layout.xml" value="0.325" />
+        <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/home_toolbar_layout.xml" value="0.325" />
         <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/item_data_item_form.xml" value="0.3115942028985507" />
         <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/item_photo_form.xml" value="0.29981884057971014" />
         <entry key="..\:/gitWorkSpace/Esop/app/src/main/res/layout/item_photo_form_child.xml" value="0.29981884057971014" />
