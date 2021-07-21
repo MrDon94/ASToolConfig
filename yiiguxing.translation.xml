@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="collided" />
       <item value="if only using Java, use this. If using Kotlin do NOT use this." />
       <item value="Pass in dynamic database name here. Otherwise it defaults to class name." />
       <item value="m Header Adapter.get Count()" />
@@ -50,7 +51,6 @@
       <item value="Perform two calculations in parallel" />
       <item value="amountof" />
       <item value="Concurrently" />
-      <item value="Sequentially" />
     </histories>
     <option name="languageScores">
       <map>
