@@ -2,6 +2,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/gitDemoSpace/AndroidProject/app/src/main/res/drawable/info_ic.xml" value="0.36770833333333336" />
+        <entry key="..\:/gitDemoSpace/AndroidProject/app/src/main/res/drawable/reboot_ic.xml" value="0.36770833333333336" />
+        <entry key="..\:/gitDemoSpace/AndroidProject/app/src/main/res/drawable/share_ic.xml" value="0.36770833333333336" />
+        <entry key="..\:/gitDemoSpace/AndroidProject/app/src/main/res/layout/crash_activity.xml" value="0.35260416666666666" />
         <entry key="..\:/gitDemoSpace/BaseRecyclerViewAdapterHelper/app/src/main/res/layout/activity_node_section.xml" value="0.35260416666666666" />
         <entry key="..\:/gitDemoSpace/BaseRecyclerViewAdapterHelper/app/src/main/res/layout/activity_section_uer.xml" value="0.35260416666666666" />
         <entry key="..\:/gitDemoSpace/BaseRecyclerViewAdapterHelper/app/src/main/res/layout/activity_universal_recycler.xml" value="0.35260416666666666" />
@@ -223,6 +227,8 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/ic_icon_cancel_grey.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/ic_icon_close_red.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/ic_star_flag.xml" value="0.36770833333333336" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/info_ic.xml" value="0.36205128205128206" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/reboot_ic.xml" value="0.36205128205128206" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/selector_button_submit.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/selector_filter_button.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/selector_switch_button_bg.xml" value="0.36205128205128206" />
@@ -244,6 +250,7 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/shape_signature_button_border.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/shape_top_indicator_selected.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/shape_top_indicator_unselected_disable.xml" value="0.36770833333333336" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/share_ic.xml" value="0.36205128205128206" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/timepicker_sel_text_item.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_amount_calculate.xml" value="0.20185185185185187" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_asset_repair.xml" value="0.34717948717948716" />
@@ -324,6 +331,7 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_violate_list.xml" value="0.34717948717948716" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_work_permit_common_detail.xml" value="0.34717948717948716" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_work_standard_run.xml" value="0.17147922998986828" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/crash_activity.xml" value="0.34717948717948716" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/empty_view.xml" value="0.3351449275362319" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_execute_work.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/fragment_job_info.xml" value="0.19583333333333333" />
