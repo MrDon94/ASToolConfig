@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Checks a standard database helper for integrity using quick_check(1)." />
+      <item value="Integrity" />
       <item value="collided" />
       <item value="if only using Java, use this. If using Kotlin do NOT use this." />
       <item value="Pass in dynamic database name here. Otherwise it defaults to class name." />
@@ -49,8 +51,6 @@
       <item value="Calculation In Several" />
       <item value="Cooperative Cancellation" />
       <item value="Perform two calculations in parallel" />
-      <item value="amountof" />
-      <item value="Concurrently" />
     </histories>
     <option name="languageScores">
       <map>
