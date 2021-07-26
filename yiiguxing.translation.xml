@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exits" />
       <item value="Delete the all in directory." />
       <item value="Checks a standard database helper for integrity using quick_check(1)." />
       <item value="Integrity" />
@@ -50,7 +51,6 @@
       <item value="operation type" />
       <item value="please check status of providers(disabled, not registered or in blacklist" />
       <item value="Calculation In Several" />
-      <item value="Cooperative Cancellation" />
     </histories>
     <option name="languageScores">
       <map>
