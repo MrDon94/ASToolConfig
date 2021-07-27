@@ -257,7 +257,7 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/shape_top_indicator_unselected_disable.xml" value="0.36770833333333336" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/share_ic.xml" value="0.36205128205128206" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/drawable/timepicker_sel_text_item.xml" value="0.36770833333333336" />
-        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_amount_calculate.xml" value="0.20185185185185187" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_amount_calculate.xml" value="0.34717948717948716" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_asset_repair.xml" value="0.34717948717948716" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_asset_repair_add.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_asset_repair_detail.xml" value="0.2006340579710145" />
@@ -335,6 +335,7 @@
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_task_list.xml" value="0.20185185185185187" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_task_search.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_task_step.xml" value="0.34717948717948716" />
+        <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_user_info.xml" value="0.34717948717948716" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_violate_list.xml" value="0.34717948717948716" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_work_permit_common_detail.xml" value="0.34717948717948716" />
         <entry key="..\:/gitWorkSpace/Borehole/app/src/main/res/layout/activity_work_standard_run.xml" value="0.17147922998986828" />
