@@ -735,6 +735,7 @@
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_main.xml" value="0.35625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_main_viewpager_one_layout.xml" value="0.30097087378640774" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_main_viewpager_two_layout.xml" value="0.52890625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_modbus.xml" value="0.52890625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_order_file_view.xml" value="0.4531990521327014" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_preview_pdf.xml" value="0.4531990521327014" />
@@ -752,6 +753,7 @@
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_settings.xml" value="0.2671800947867299" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_show_big_image.xml" value="0.2688106796116505" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_signature.xml" value="0.34609375" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_smart_device.xml" value="0.28984375" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_toolbar.xml" value="0.4531990521327014" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_work_permit_common_detail.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/empty_view.xml" value="0.4531990521327014" />
@@ -771,6 +773,7 @@
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_safe_analysis_add_step.xml" value="0.2712378640776699" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_safe_analysis_add_step_params.xml" value="0.2712378640776699" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_safe_analysis_add_step_select.xml" value="0.2712378640776699" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/iot_item_list.xml" value="0.52890625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_attachment.xml" value="0.35" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_camera.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_children.xml" value="0.4466824644549763" />
@@ -786,6 +789,7 @@
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_common_safe_analysis_base_view.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_common_safe_analysis_person_view.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_common_safe_analysis_step_view.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_equip_basic.xml" value="0.52890625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_expand_chidren.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_expand_parent.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_filter.xml" value="0.4531990521327014" />
