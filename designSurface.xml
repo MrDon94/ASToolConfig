@@ -717,7 +717,7 @@
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_equip_sacan.xml" value="0.35234375" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_execute_common_photo.xml" value="0.2688106796116505" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_face_access.xml" value="0.1" />
-        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_issue_detail.xml" value="0.5278436018957346" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_issue_detail.xml" value="0.28984375" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_licence_apply_add.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_licence_apply_detail.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_licence_apply_list.xml" value="0.2688106796116505" />
@@ -738,6 +738,7 @@
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_main_viewpager_two_layout.xml" value="0.52890625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_modbus.xml" value="0.52890625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_order_file_view.xml" value="0.4531990521327014" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_person_info.xml" value="0.52890625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_preview_pdf.xml" value="0.4531990521327014" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_problem_add.xml" value="0.15234375" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_problem_deal.xml" value="0.1" />
