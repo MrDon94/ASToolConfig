@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="again" />
+      <item value="origin" />
       <item value="PROVIDER" />
       <item value="Suffix" />
       <item value="Arctic Fox" />
@@ -49,8 +51,6 @@
       <item value="Execute a statement that returns a 1 by 1 table with a numeric value." />
       <item value="sync" />
       <item value="rated" />
-      <item value="FORM" />
-      <item value="Expose" />
     </histories>
     <option name="languageScores">
       <map>
