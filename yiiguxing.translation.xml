@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Selection" />
       <item value="deliver Type" />
       <item value="factory no" />
       <item value="send Trends" />
@@ -50,7 +51,6 @@
       <item value="fire" />
       <item value="electricity place" />
       <item value="content Authority" />
-      <item value="harm describe" />
     </histories>
     <option name="languageScores">
       <map>
