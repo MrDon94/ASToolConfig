@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="modifier" />
+      <item value="brush" />
       <item value="Column" />
       <item value="Row" />
       <item value="obtain" />
@@ -49,8 +51,6 @@
       <item value="not present" />
       <item value="Vice" />
       <item value="qualifications" />
-      <item value="ascending" />
-      <item value="electric" />
     </histories>
     <option name="languageScores">
       <map>
