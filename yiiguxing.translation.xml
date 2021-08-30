@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="obtain" />
       <item value="on Selection" />
       <item value="deliver Type" />
       <item value="factory no" />
@@ -50,7 +51,6 @@
       <item value="electric" />
       <item value="fire" />
       <item value="electricity place" />
-      <item value="content Authority" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,7 +62,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629697738648" />
+    <option name="lastTrimTime" value="1630285494531" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
