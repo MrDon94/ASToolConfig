@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Column" />
+      <item value="Row" />
       <item value="obtain" />
       <item value="on Selection" />
       <item value="deliver Type" />
@@ -49,8 +51,6 @@
       <item value="qualifications" />
       <item value="ascending" />
       <item value="electric" />
-      <item value="fire" />
-      <item value="electricity place" />
     </histories>
     <option name="languageScores">
       <map>
