@@ -1,0 +1,8 @@
+<application>
+  <component name="PlantUmlSettingsNew">
+    <option name="PLANTUML_LIMIT_SIZE" value="" />
+    <option name="dotExecutable" value="C:/Program Files (x86)/Graphviz2.38/bin/dot.exe" />
+    <option name="includedPaths" value="" />
+    <option name="usePreferentiallyGRAPHIZ_DOT" value="true" />
+  </component>
+</application>
