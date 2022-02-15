@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Author" />
       <item value="Suffix" />
       <item value="modifier" />
       <item value="brush" />
@@ -50,19 +51,18 @@
       <item value="operation" />
       <item value="not present" />
       <item value="Vice" />
-      <item value="qualifications" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="88" />
+        <entry key="CHINESE" value="88" />
+        <entry key="ENGLISH" value="89" />
         <entry key="GERMAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630285494531" />
+    <option name="lastTrimTime" value="1644909182280" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
