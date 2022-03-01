@@ -663,7 +663,7 @@
         <entry key="..\:/gitWorkSpace/LCMS/app/src/main/res/layout/activity_check_detail.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/LCMS/app/src/main/res/layout/activity_complete_detail.xml" value="0.34717948717948716" />
         <entry key="..\:/gitWorkSpace/LCMS/app/src/main/res/layout/activity_daily_detail.xml" value="0.31296296296296294" />
-        <entry key="..\:/gitWorkSpace/LCMS/app/src/main/res/layout/activity_dispatch_detail.xml" value="0.32685185185185184" />
+        <entry key="..\:/gitWorkSpace/LCMS/app/src/main/res/layout/activity_dispatch_detail.xml" value="0.3388888888888889" />
         <entry key="..\:/gitWorkSpace/LCMS/app/src/main/res/layout/activity_entrust_detail.xml" value="0.32685185185185184" />
         <entry key="..\:/gitWorkSpace/LCMS/app/src/main/res/layout/activity_progress_detail.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/LCMS/app/src/main/res/layout/activity_progress_update.xml" value="0.35260416666666666" />
@@ -676,6 +676,7 @@
         <entry key="..\:/gitWorkSpace/LCMS/app/src/main/res/layout/item_audit_dynamic.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/LCMS/app/src/main/res/layout/item_budget_list.xml" value="0.32222222222222224" />
         <entry key="..\:/gitWorkSpace/LCMS/app/src/main/res/layout/item_contract_list.xml" value="0.35260416666666666" />
+        <entry key="..\:/gitWorkSpace/LCMS/app/src/main/res/layout/item_dispatch_user.xml" value="0.3388888888888889" />
         <entry key="..\:/gitWorkSpace/LCMS/app/src/main/res/layout/item_done.xml" value="0.32222222222222224" />
         <entry key="..\:/gitWorkSpace/LCMS/app/src/main/res/layout/item_file.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/LCMS/app/src/main/res/layout/item_grid_picture.xml" value="0.32685185185185184" />
