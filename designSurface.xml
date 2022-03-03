@@ -804,6 +804,9 @@
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_toolbar.xml" value="0.4531990521327014" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/activity_work_permit_common_detail.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/empty_view.xml" value="0.4531990521327014" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_equip_basicinfo.xml" value="0.34717948717948716" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_equip_detail_page.xml" value="0.34717948717948716" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_equip_property.xml" value="0.34717948717948716" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_home_page.xml" value="0.4727488151658768" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_licence_apply_add_base.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_licence_apply_add_config.xml" value="0.4466824644549763" />
@@ -815,6 +818,7 @@
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_licence_apply_file_show.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_licence_apply_file_upload.xml" value="0.2688106796116505" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_lift_licence_apply_add_base.xml" value="0.33" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_operational.xml" value="0.22" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_order_brief.xml" value="0.34717948717948716" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_safe_analysis_add_base.xml" value="0.33" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/fragment_safe_analysis_add_person.xml" value="0.4466824644549763" />
