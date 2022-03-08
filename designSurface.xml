@@ -847,6 +847,7 @@
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_common_safe_analysis_person_view.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_common_safe_analysis_step_view.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_equip_basic.xml" value="0.2985008818342152" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_equip_drawer_empty.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_equip_list.xml" value="0.26721014492753625" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_equip_maintenance.xml" value="0.2985008818342152" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/item_expand_chidren.xml" value="0.4466824644549763" />
@@ -894,6 +895,7 @@
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/view_bottom_menu.xml" value="0.4466824644549763" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/view_count_data.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/view_data_item_foot.xml" value="0.4466824644549763" />
+        <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/view_empty_text.xml" value="0.35260416666666666" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/view_main_left_panel.xml" value="0.46375" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/view_search_filter.xml" value="0.4531990521327014" />
         <entry key="..\:/gitWorkSpace/SOM/app/src/main/res/layout/view_signature_combination.xml" value="0.2688106796116505" />
